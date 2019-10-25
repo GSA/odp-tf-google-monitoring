@@ -2,7 +2,7 @@
 
 ## Overview <a name="s1"></a>
 
-The MODULE  module is used to configure X resources.
+The MODULE  module is used to configure X resources. 
 
 ## Table of Contents <a name="s2"></a>
 
